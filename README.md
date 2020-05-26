@@ -27,5 +27,9 @@ Para testes e validações da API, foi utilizado o Rest-assured.
 Para desenvolver os testes e as validações com padrão BDD, foi utilizado o Cucumber.
 
 
+# Notas 2
+Este projeto não está documentado nos commits porque transferi do GitLab(onde está documentado) para o GitHub.
+
+
 
 
