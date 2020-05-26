@@ -1,7 +1,7 @@
 # prova_sicredi_api
 
 
-Projeto criado para processo seletivo projeto Sicred.
+Projeto criado para processo seletivo projeto Sicredi.
 
 # Descriçao do projeto:
 
