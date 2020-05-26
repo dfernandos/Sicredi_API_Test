@@ -1,7 +1,7 @@
 # prova_sicredi_api
 
 
-Projeto criado para processo seletivo Stefanini.
+Projeto criado para processo seletivo projeto Sicred.
 
 # Descriçao do projeto:
 
