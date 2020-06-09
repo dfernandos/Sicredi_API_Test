@@ -1,4 +1,4 @@
-# prova_sicredi_api
+# Test_Automação_Servico-API
 
 
 Projeto criado para processo seletivo projeto Sicredi.
